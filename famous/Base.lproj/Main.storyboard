@@ -1442,7 +1442,7 @@
             </objects>
             <point key="canvasLocation" x="2351" y="-716"/>
         </scene>
-        <!--好友（143人）-->
+        <!--好友(143人)-->
         <scene sceneID="XUb-gc-b9n">
             <objects>
                 <viewController id="jt2-26-K6E" sceneMemberID="viewController">
@@ -1517,10 +1517,6 @@
                                         <integer key="value" value="21"/>
                                     </userDefinedRuntimeAttribute>
                                 </userDefinedRuntimeAttributes>
-                            </imageView>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="上排" translatesAutoresizingMaskIntoConstraints="NO" id="uMx-We-QIs">
-                                <rect key="frame" x="0.0" y="0.0" width="375" height="20"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="knowknow" translatesAutoresizingMaskIntoConstraints="NO" id="WbN-g6-BMw">
                                 <rect key="frame" x="11" y="576" width="42" height="42"/>
@@ -1651,27 +1647,11 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Lwz-Nt-E0p">
-                                <rect key="frame" x="0.0" y="41" width="375" height="59"/>
+                                <rect key="frame" x="0.0" y="64" width="375" height="36"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <subviews>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9xA-zf-aua">
-                                        <rect key="frame" x="8" y="0.0" width="26" height="30"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                    </button>
-                                    <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n4P-vE-33H">
-                                        <rect key="frame" x="341" y="0.0" width="26" height="30"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <state key="normal" title="Button"/>
-                                    </button>
-                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6cU-vc-OV6">
-                                        <rect key="frame" x="124" y="8" width="126" height="21"/>
-                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                        <nil key="highlightedColor"/>
-                                    </label>
                                     <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" placeholder="🔍官方帳號、好友、聊天室" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="oRe-0u-jOD">
-                                        <rect key="frame" x="10" y="25" width="354" height="30"/>
+                                        <rect key="frame" x="13" y="3" width="354" height="30"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <color key="backgroundColor" red="0.66422420739999999" green="0.66424006219999998" blue="0.66423153879999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <color key="textColor" red="0.83741801979999997" green="0.83743780850000005" blue="0.83742713930000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -1690,7 +1670,7 @@
                         <viewLayoutGuide key="safeArea" id="99Q-4w-rPa"/>
                     </view>
                     <toolbarItems/>
-                    <navigationItem key="navigationItem" title="好友（143人）" id="1vB-oH-RcY">
+                    <navigationItem key="navigationItem" title="好友(143人)" id="1vB-oH-RcY">
                         <barButtonItem key="leftBarButtonItem" image="齒輪" id="Bvn-08-F7U">
                             <color key="tintColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         </barButtonItem>
@@ -1702,7 +1682,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="56B-nE-Z5f" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4072.8000000000002" y="886.50674662668678"/>
+            <point key="canvasLocation" x="5951.1999999999998" y="886.50674662668678"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="ZXC-Zv-Whe">
@@ -1717,45 +1697,44 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Ap2-N5-Ibd" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5212" y="890"/>
+            <point key="canvasLocation" x="7090.3999999999996" y="889.20539730134942"/>
         </scene>
         <!--Item-->
-        <scene sceneID="eUf-g8-zxf">
+        <scene sceneID="xMh-dN-Nya">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="xZc-2H-gMB" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="Qgl-Nr-g3Q"/>
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="KD0-Qa-Lgw" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="ikA-Ii-0z7"/>
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="HoY-8z-355">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Yjk-y4-at9">
                         <rect key="frame" x="0.0" y="20" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
-                        <color key="barTintColor" red="0.0" green="0.027450980392156862" blue="0.15800781249999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="barTintColor" red="0.0" green="0.027450980392156862" blue="0.13904622395833333" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
                     <connections>
-                        <segue destination="jt2-26-K6E" kind="relationship" relationship="rootViewController" id="qRx-wq-Lcc"/>
+                        <segue destination="jt2-26-K6E" kind="relationship" relationship="rootViewController" id="7SP-14-zPK"/>
                     </connections>
                 </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="a8g-uA-uBO" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="LgA-nS-NTL" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3252" y="887.40629685157433"/>
+            <point key="canvasLocation" x="5012" y="886.50674662668678"/>
         </scene>
-        <!--好友（143人）-->
-        <scene sceneID="cjL-Ss-W6s">
+        <!--Tab Bar Controller-->
+        <scene sceneID="QZr-vQ-oVb">
             <objects>
-                <tabBarController title="好友（143人）" automaticallyAdjustsScrollViewInsets="NO" id="Y8T-iK-bT8" sceneMemberID="viewController">
+                <tabBarController automaticallyAdjustsScrollViewInsets="NO" id="ViX-Dg-8K1" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="dg2-3W-sRQ">
-                        <rect key="frame" x="0.0" y="0.0" width="1000" height="1000"/>
+                    <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="hmk-U0-fGd">
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                     </tabBar>
                     <connections>
-                        <segue destination="xZc-2H-gMB" kind="relationship" relationship="viewControllers" id="Avz-v3-xac"/>
+                        <segue destination="KD0-Qa-Lgw" kind="relationship" relationship="viewControllers" id="sFn-q9-W77"/>
                     </connections>
                 </tabBarController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="3VY-bV-N8l" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xsn-kP-WSv" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2312.8000000000002" y="887.40629685157433"/>
+            <point key="canvasLocation" x="4072.8000000000002" y="886.50674662668678"/>
         </scene>
     </scenes>
     <resources>
@@ -1766,7 +1745,6 @@
         <image name="knowknow" width="85" height="85"/>
         <image name="kylie" width="85" height="85"/>
         <image name="masiwei" width="85" height="85"/>
-        <image name="上排" width="316" height="18"/>
         <image name="雪茄" width="615" height="345"/>
         <image name="馬雲" width="85" height="85"/>
         <image name="齒輪" width="30" height="30"/>
